@@ -24,3 +24,4 @@
 
 ### **Enjoy!! ✨**
 
+### **Tip: Run "where python" to see the location of your python installation!**
